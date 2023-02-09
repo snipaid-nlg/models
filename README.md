@@ -1,7 +1,7 @@
 # models
-## LLMs for NLG in German
+## LLMs for NLG (in German)
 
-This repository provides an comprehensive overview of available large language models (LLM) for natural language generation (NLG) in German.
+This repository provides an comprehensive overview of available large language models (LLM) for natural language generation (NLG). Of particular interest to us are models with German language capabilities.
 
 <table>
     <tr>
